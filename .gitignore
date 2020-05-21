@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+
+training.tsv
+test1.csv
 __pycache__/
 *.py[cod]
 *$py.class
